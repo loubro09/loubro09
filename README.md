@@ -57,16 +57,16 @@
 
 ###
 **🔸 [Wasteroom Planner for Property Owners](https://github.com/SleimanSleiman/Avfallskompassen)**  
-Some information...  
-*Learned:* TypeScript, React, Konva.js,   
+Web-based property and waste room planning tool with interactive floor planning and statistics.  
+*Learned:* full-stack web development with Spring Boot and TypeScript/React
 
 **🔸 [Music Generator Based on Weather](https://github.com/loubro09/Weatherly)**  
-Generates music recommendations based on real-time weather data.  
+Web service generating music recommendations based on real-time weather data.  
 *Learned:* working with REST APIs, JSON parsing, and integrating external services.  
 
 **🔸 [IDE Tool](https://github.com/marcusmpersson/zenit)**  
 Lightweight Java IDE with file management, code execution, and code completion.  
-*Learned:*  
+*Learned:* integrating JVM execution and file system operations, applying requirements-driven testing and validation.  
 
 **🔸 [Optimization Algorithm](https://github.com/loubro09/knapsack)**  
 Implementation of greedy and neighborhood search algorithms for the multiple knapsack problem.  
