@@ -70,7 +70,7 @@ Lightweight Java IDE with file management, code execution, and code completion.
 
 **🔸 [Optimization Algorithm](https://github.com/loubro09/knapsack)**  
 Implementation of greedy and neighborhood search algorithms for the multiple knapsack problem.  
-*Learned:* combinatorial optimization, greedy heuristics, neighborhood search, and algorithmic trade-offs.  
+*Learned:* combinatorial optimization, greedy heuristics and neighborhood search. 
 
 **🔸 [Chat Messaging System](https://github.com/loubro09/chat)**  
 Client–server chat system supporting text and image messages between multiple users.  
