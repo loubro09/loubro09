@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student from Sweden<br><br>- 🔭 I’m working at my thesis<br>- 📚 I'm currently learning R<br>- ⚡ In my free time I like to climb</p>
+<p align="left">I'm a software developer from Sweden<br><br>- 🔭 I recently graduated from Malmö University<br>- 🤖 I'm currently exploring how to use AI tools to work more efficiently, while deepening my programming and software skills<br>- ⚡ In my free time I like to climb</p>
 
 ###
 
